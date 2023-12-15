@@ -6,4 +6,6 @@
 
 백엔드 개발자로 커리어를 시작했지만 지금은 눈길을 돌려 프론트엔드 공부 중이랍니다.
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=boxak)](https://solved.ac/boxak)
+
 ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=boxak&show_icons=true&theme=default#gh-light-mode-only)
