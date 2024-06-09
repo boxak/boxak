@@ -1,6 +1,6 @@
 ## 황지원 <span>Hwang Ji Won</span>
 
-**✏️ [Tech Blog](https://boxak.github.io/)**
+**✏️ 블로그 : https://boxak.github.io/**
 
 #
 
